@@ -1,5 +1,5 @@
 #  Is the Golden Leaf Still Profitable?  
-## Analyzing Zimbabwe's Tobacco Market Trends (2015–2025)
+## Analyzing Zimbabwe's Tobacco Market Trends (2022–2025)
 
 > A Data Science Case Study on the Sustainability and Profitability of Tobacco Farming in the Face of Climate and Economic Pressure
 
@@ -32,7 +32,7 @@ The goal is to provide **data-driven, actionable insights** for **farmers**, **i
 
 ## Research Questions
 
-1.  How have **tobacco prices and sales volumes** changed from 2015 to 2025?  
+1.  How have **tobacco prices and sales volumes** changed from 2022 to 2025?  
 2.  What **seasonal patterns** emerge in tobacco sales and pricing data?  
 3. How do **rainfall and drought events** affect production and market performance?  
 4. What is the **relationship between inflation** and tobacco pricing/profitability?  
